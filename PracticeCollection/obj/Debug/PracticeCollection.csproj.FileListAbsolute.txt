@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\PracticeCollection\PracticeCollection\bin\Debug\PracticeCollection.exe.config
+c:\users\1\documents\visual studio 2017\Projects\PracticeCollection\PracticeCollection\bin\Debug\PracticeCollection.exe
+c:\users\1\documents\visual studio 2017\Projects\PracticeCollection\PracticeCollection\bin\Debug\PracticeCollection.pdb
+c:\users\1\documents\visual studio 2017\Projects\PracticeCollection\PracticeCollection\obj\Debug\PracticeCollection.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\PracticeCollection\PracticeCollection\obj\Debug\PracticeCollection.exe
+c:\users\1\documents\visual studio 2017\Projects\PracticeCollection\PracticeCollection\obj\Debug\PracticeCollection.pdb
